@@ -20,7 +20,7 @@ export default function HdrInformation() {
                         </Dropdown.Toggle>
                       </Dropdown>
                       <Nav href="#home" className='nav'>         
-                        <FontAwesomeIcon icon={faEnvelope} id='contactIcon' />Phone +012 345 6789
+                        <FontAwesomeIcon icon={faEnvelope} id='contactIcon' />Phone +000 0000 000
                       </Nav>
                       <Nav href="#home" className='nav'>
                         <FontAwesomeIcon icon={faPhoneVolume} id='contactIcon'  />Mail@CargoHub.com
