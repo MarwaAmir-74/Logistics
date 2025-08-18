@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository and navigate to the project directory:
 bash
-git clone https://github.com/MarwaAmir-74/Logistics-Template.git
+git clone https://github.com/MarwaAmir-74/logistics.git
 
 2. Install dependencies:
 npm install
